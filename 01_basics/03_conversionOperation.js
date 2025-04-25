@@ -37,5 +37,8 @@
 // console.log("1"+2+1)
 // console.log(1+2+"1")
 
+// strict check (===)
+console.log (2=="2") // converts data types and then checks equality
+console.log (2==="2") // does not convert data types 
 
 
